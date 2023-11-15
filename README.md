@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=daf&text=Hello&height=190&section=header&fontAlign=80&fontColor=333"/>
 
-  [![Mensagem SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=OI,+Meu+nome+é+Daniel+Jun;Seja+Bem+Vindo(a)!+:%29)](https://git.io/typing-svg)
+  [![Mensagem SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=OI,+Meu+nome+é+Daniel+Jun;Seja+Bem+Vindo(a)!+:%29)]
 
-  [![Grafifo de contribuicao](https://github-readme-activity-graph.vercel.app/graph?username=danBlackSpade&bg_color=0d1117&color=daf&line=12c1ca&point=0a6c71&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Grafico de contribuicao](https://github-readme-activity-graph.vercel.app/graph?username=danBlackSpade&bg_color=0d1117&color=daf&line=12c1ca&point=0a6c71&area=true&hide_border=true)]
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danBlackSpade&show_icons=true&count_private=true&hide_border=true&title_color=daf&icon_color=12c1ca&text_color=c9d1d9&bg_color=0d1117" alt="danBlackSpade github stats" /> 
